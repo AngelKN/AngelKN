@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=orange)&nbsp;
-![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=blue)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=#E34F26)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=#7952B3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-D6C0DE?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-D6C0DE?style=flat&logo=java&logoColor=orange)&nbsp;
+![R](https://img.shields.io/badge/R-D6C0DE?style=flat&logo=r&logoColor=blue)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-D6C0DE?style=flat&logo=html5&logoColor=#E34F26)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D6C0DE?style=flat&logo=bootstrap&logoColor=#7952B3)&nbsp;
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
