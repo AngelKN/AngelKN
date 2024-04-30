@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-276DC3?style=flat&logo=html5&logoColor=#E34F26&color=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-276DC3?style=flat&logo=html5&logoColor=#E34F26)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-276DC3?style=flat&logo=&logoColor=blue&color=purple)&nbsp;
 
 #### Development
