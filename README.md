@@ -60,9 +60,10 @@ You can click the Preview link to take a look at your changes.
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-D6C0DE?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D6C0DE?style=flat&logo=postgresql&logoColor=green)
+![MongoDB](https://img.shields.io/badge/PostgreSQL-D6C0DE?style=flat&logo=postgresql&logoColor=green)
+![SQlite](https://img.shields.io/badge/-SQlite-D6C0DE?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 
 #### Tools and Technologies
 
