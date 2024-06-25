@@ -4,8 +4,7 @@
  <b><p><i>Estudiante universitario de ingenieria de sistemas, con titulo de Tecnólogo en Desarrollo de Sistemas Informáticos y aspirante a desarrollador de software con buenas habilidades para la resolución de problemas. Capaz de desempeñarse bien en un equipo. Apasionado por la tecnología, con sólidas habilidades en resolución de problemas, trabajo en equipo y desarrollo de software. Busco oportunidades desafiantes para aplicar mis conocimientos y contribuir al éxito de un equipo talentoso.</i></p></b>
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="z6WdDjj"><a href="https://imgur.com/z6WdDjj">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://i.imgur.com/weNbhGZ.png">
 ## Acerca de mi:
 
 </br>
