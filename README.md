@@ -4,7 +4,7 @@
  <b><p><i>Estudiante universitario de ingenieria de sistemas, con titulo de Tecnólogo en Desarrollo de Sistemas Informáticos y aspirante a desarrollador de software con buenas habilidades para la resolución de problemas. Capaz de desempeñarse bien en un equipo. Apasionado por la tecnología, con sólidas habilidades en resolución de problemas, trabajo en equipo y desarrollo de software. Busco oportunidades desafiantes para aplicar mis conocimientos y contribuir al éxito de un equipo talentoso.</i></p></b>
 
 
-<img src="LogoFox.png" height="1000">
+
 
 ## Acerca de mi:
 
@@ -16,7 +16,7 @@
 - 📫 lolosumine@gmail.com
 
 <hr>
-
+<img src="LogoFox.png" height="200">
 
 </br>
 
