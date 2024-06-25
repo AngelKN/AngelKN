@@ -9,14 +9,16 @@
 ## Acerca de mi:
 
 </br>
-
+<div>
+  <img src="LogoFox.png" height="200">
+  <p>Aquí iría mucho texto para que rodee a la imagen y conseguir apreciar el efecto de alineación...</p>
+</div>
 - 💡 Tengo curiosidad por Inteligencia Artificial.
 - 📖 Actualmente estoy aprendiendo .
 - ❄️ Estoy buscando colaborar para aprender y desarrollarme.
 - 📫 lolosumine@gmail.com
 
 <hr>
-<img src="LogoFox.png" height="200">
 
 </br>
 
