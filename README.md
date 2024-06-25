@@ -10,7 +10,7 @@
 
 </br>
 <div>
-  <img src="LogoFox.png" height="200">
+  <img src="LogoFox.png" height="200" style="float: left">
   <p>Aquí iría mucho texto para que rodee a la imagen y conseguir apreciar el efecto de alineación...</p>
 </div>
 - 💡 Tengo curiosidad por Inteligencia Artificial.
