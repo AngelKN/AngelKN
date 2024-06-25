@@ -17,13 +17,6 @@
 
 <hr>
 
-<!---
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
 
 </br>
 
@@ -50,11 +43,6 @@ You can click the Preview link to take a look at your changes.
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
-
-
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-D6C0DE?style=flat&logo=mysql&logoColor=#4479A1)&nbsp;
